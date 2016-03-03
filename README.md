@@ -1,2 +1,10 @@
 # lsb-release
-LSB release files for various Linux distros
+*Anyone who's ever had to edit `lsb-release` will understand*
+
+
+Please feel free to add files for more distros
+
+
+**Repo file structure:** `/Distro/version_codename/filename`
+
+*Example:* `/Ubuntu/U15.10_wily/lsb-release`
